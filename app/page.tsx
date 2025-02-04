@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div >
     <h1> welcome to next.js</h1>
-    <Button> Subcribed</Button>
+    <Button>Subcribed</Button>
     </div>
   );
 }
